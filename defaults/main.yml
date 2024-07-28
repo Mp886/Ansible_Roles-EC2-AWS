@@ -1,0 +1,5 @@
+---
+# defaults file for ec2_roles
+
+type: t2.micro
+ami: ami-04b70fa74e45c3917 
